@@ -29,8 +29,8 @@ id, year, title, summary, poster, genres
 
 #### 완성된 화면
 
-![alt text](https://github.com/awesomesoo/react-movie_app/blob/master/img_readme.png?raw=true)
+![alt text](https://github.com/awesomesoo/react-movie-app/blob/master/img_readme.png?raw=true)
 
 #### 결과
 
-https://awesomesoo.github.io/react-movie_app/
+https://awesomesoo.github.io/react-movie-app/
