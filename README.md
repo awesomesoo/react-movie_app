@@ -1,6 +1,6 @@
 # 💜 Movie App
 
-React JS Fundamentals Course movie app
+React JS Fundamentals Course movie app.
 
 ### 컴포넌트 종류
 
