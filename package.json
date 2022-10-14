@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://awesomesoo.github.io/movie_app/"
+  "homepage": "https://awesomesoo.github.io/movie_app/",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
