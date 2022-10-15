@@ -2,7 +2,7 @@
 
 React JS Fundamentals Course movie app.
 
-## 💜 프로젝트 
+## 💜 프로젝트 구성 
 ### 컴포넌트 종류
 
 #### Navigation
