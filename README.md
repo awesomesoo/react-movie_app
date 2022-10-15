@@ -31,6 +31,3 @@ id, year, title, summary, poster, genres
 
 ![alt text](https://github.com/awesomesoo/react-movie-app/blob/master/img_readme.png?raw=true)
 
-#### 결과
-
-https://awesomesoo.github.io/react-movie-app/
