@@ -1,7 +1,8 @@
-# 💜 Movie App
+# Movie App
 
 React JS Fundamentals Course movie app.
 
+## 💜 프로젝트 
 ### 컴포넌트 종류
 
 #### Navigation
